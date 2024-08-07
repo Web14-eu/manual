@@ -1,0 +1,9 @@
+site_name: Manual Web14
+site_url: https://web14.eu/docs
+theme:
+  name: material
+  language: es
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
