@@ -7,3 +7,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+nav:
+  - Inicio: 'index.md'
+  - Servicios:
+    - "Inicio de sesión": 'login.md'
