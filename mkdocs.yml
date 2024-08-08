@@ -1,5 +1,8 @@
 site_name: Manual Web14
 site_url: https://web14.eu/docs
+plugins:
+  - search
+  - print-site
 theme:
   name: material
   language: es
