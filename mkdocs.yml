@@ -11,3 +11,6 @@ nav:
   - Inicio: 'index.md'
   - Servicios:
     - "Inicio de sesión": 'login.md'
+  - Tutoriales:
+    - AdBlock:
+      - Con VPN Tailscale: 'vpn-adblock.md'
