@@ -17,3 +17,5 @@ nav:
   - Tutoriales:
     - Tailscale:
       - Adblock: 'vpn-adblock-tailscale.md'
+  - Andromeda (Servidor):
+    - Añadir nodo: 'andromeda/add-node.md'
